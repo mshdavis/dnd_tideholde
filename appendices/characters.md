@@ -7,7 +7,7 @@
 
 ## Dagon
 
-### Overview
+### Overview - [Wiki](http://forgottenrealms.wikia.com/wiki/Dagon)
 
 Dagon is a demon lord, also called Prince of the Depths. His realm is the 89th layer of the Abyss, and is known as Shadowsea. Dagon is an obyrith.
 
@@ -22,7 +22,7 @@ His primary goal over the course of the campaign is to undo restrictions leashin
 
 ## Melora
 
-### Overview
+### Overview - [Wiki](http://dnd4.wikia.com/wiki/Melora)
 
 The unaligned goddess of nature, wilderness and the sea, Melora is often worshiped by elves as well as hunters and rangers. She is the antithesis of Erathis, the deity of civilization, and is also known to dislike Asmodeus.
 
