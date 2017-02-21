@@ -10,7 +10,7 @@ Most of the townspeople themselves are shunning the festivities, preferring to s
 
 ### Activities
 
-Simple carnival games. Feel free improvise games and hosting characters as needed. Prefer simple attribute checks for success. Make sure no prizes of note are actually given out.
+Simple carnival games. Feel free to improvise games and hosting characters as needed. Prefer simple attribute checks for success. Make sure no prizes of note are actually given out.
 
 Examples:
 * Ring toss/knock over the bottles (dex check)
@@ -30,7 +30,7 @@ If the PCs talk to the bard they should learn that there's an older mage who liv
 
 ### Conclusion
 
-After the PCs have amused and introduced themselves a bit, it's almost sunset. As the day has gone on, more and more townspeople have arrived until the plaza is incredibly full. The High Priestess of Melora arrives on a palanquin, born by four elven paladins, dressed in shining armor with bright green capes. After she exits gracefully, she is greeted by the mayor of Tideholde, a squat, broad man with a permanent frown on his face. Briefly, they exchange pleasantries before passing one another what look like identical engraved ingots of silver. After placing both bars into grooves at the base of the pillar they perform an elaborate ritual together, whispering words of power as the paladins guarding them lead the gathered crowd n prayer. As the ritual winds down, visible lines of energy swirl around the outsides of the tower, flowing into the grooves at the base and lighting up the ingots inside brilliantly. As the sun begins to move behind the sea walls and the priestess and mayor smile at one another in relief, an alarm bell rings out loudly and smoke can be seen rising over the buildings to the south.
+After the PCs have amused and introduced themselves a bit, it's almost sunset. As the day has gone on, more and more townspeople have arrived until the plaza is incredibly full. The High Priestess of Melora arrives on a palanquin, born by four elven paladins, dressed in shining armor with bright green capes. After she exits gracefully, she is greeted by the mayor of Tideholde, a squat, broad man with a permanent frown on his face. Briefly, they exchange pleasantries before passing one another what look like identical engraved ingots of silver. After placing both bars into grooves at the base of the pillar they perform an elaborate ritual together, whispering words of power as the paladins guarding them lead the gathered crowd in prayer. As the ritual winds down, visible lines of energy swirl around the outsides of the tower, flowing into the grooves at the base and lighting up the ingots inside brilliantly. As the sun begins to move behind the sea walls and the priestess and mayor smile at one another in relief, an alarm bell rings out loudly and smoke can be seen rising over the buildings to the south.
 
 #### Notes
 
