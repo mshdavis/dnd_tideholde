@@ -12,5 +12,6 @@
 * [Bestiary](appendices/bestiary.md)
 * [Characters](appendices/characters.md)
 * [Races](appendices/races.md)
+* [Spells](appendices/spells.md)
 * [World]()
 	* [World Map](appendices/world_map.md)

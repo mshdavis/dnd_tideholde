@@ -38,7 +38,7 @@ action as a bonus action on each of its turns.
 | ACTIONS | | | | |
 | ----- | ----- |  ----- | ----- | ----- |
 | Scimitar | Melee Weapon Attack: +4 to hit | reach 5 ft. | one target | Hit: 5 (1d6 + 2) slash ing damage |
-| Shortbow | Ranged Weapon Attack: +4 to hit | range 80f320 ft. | one target | Hit: 5 (1d6 + 2) piercing damage |
+| Shortbow | Ranged Weapon Attack: +4 to hit | range 80-320 ft. | one target | Hit: 5 (1d6 + 2) piercing damage |
 
 ## Cultist
 
@@ -77,8 +77,8 @@ against being charmed or frightened.
 
 **Spellcasting**. A cultist is a 1st level spellcaster. Its spellcasting ability is Wisdom (save DC 10, +2 to hit with spell attacks). The cultist has the following spells prepared:
 
-* Cantrips (at will) : light, sacred flam e, thaumaturgy
-* 1st level (3 slots): command, inflict wounds, shield of faith
+* Cantrips (at will) : [light](./spells.md#light), [sacred flame](./spells.md#sacred-flame), [thaumaturgy](./spells.md#thaumaturgy)
+* 1st level (3 slots): [command](./spells.md#command), [inflict wounds](./spells.md#inflict-wounds), [shield of faith](./spells.md#shield-of-faith)
 	
 -----
 
