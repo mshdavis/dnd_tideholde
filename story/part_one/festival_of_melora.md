@@ -2,7 +2,7 @@
 
 ### Area
 
-The festival is primarily located in the main circular plaza at the center of Tideholde built around the town's solid monument. Out of some mixture of respect and fear, none of the stalls have been set up within 30 feet of the pillar. Two elven paladins of [Melora](../../appendices/characters.md#melora) stand guard over the pillar as well, keeping pranksters away until the ritual planned for later in the day is complete.
+The festival is primarily located in the main circular plaza at the center of Tideholde built around the town's solid monument. The pillar itself is a fifty foot monolith of pure, unblemished dark stone. Out of some mixture of respect and fear, none of the stalls have been set up within 30 feet of the pillar. Two elven paladins of [Melora](../../appendices/characters.md#melora) stand guard over the pillar as well, keeping pranksters away until the ritual planned for later in the day is complete.
 
 The festival itself is unorganized and chaotic, stall owners jostling with one another for better position, at once trying to catch the flow of foot traffic while redirecting it away from their competition. The bulk of the vendors are allegedly selling baubles and trinkets from the newly discovered ruins, though many of them are likely low effort forgeries collected from the surrounding foothills.
 
@@ -27,6 +27,16 @@ After your players participate in a game or two or run around with one another a
 * That the ancient stone sea walls surrounding the town's port are believed to originally protect the town's livelihood from [Dagon](../../appendices/characters.md#dagon), Prince of the Depths.
 
 If the PCs talk to the bard they should learn that there's an older mage who lives outside of town that could tell them more about the walls and the pillar.
+
+#### Regional Flair
+
+If you want to add some more Tideholde specific flavor to your carnival games here are some additional ideas:
+
+* Annual challenge to climb the dark pillar. Since it's entirely smooth stone, no one has every succeeded, and the players should be guaranteed to fail here as well. Exceptional roles can get ten feet up, and they player should be approached by a local and given a commemorative bronze coin and a ribbon that says "Tideholde Pillar Jumper". They'll also be asked for their name so it can be put on a board in one the taverns off the plaza and told that the coin can be redeemed there for one free drink.
+* As Melora is a goddess of nature, there could be a local tracking challenge. Finding a small creature hiding somewhere in the plaza should be rewarded with a small seashell amulet.
+
+#### Notable People/Places
+TODO: Add a few things here.
 
 ### Conclusion
 

@@ -1,13 +1,15 @@
 # TODOs
 
 ## In [Festival of Melora](story/part_one/festival_of_melora.md)
-* Add link references to character pages
 * Actually flesh out the high priestess
-* Build in more treasure huntery kind of options (vendor/stall/npc, etc)
+* Add more to the Notable People/Places section
+
+## In [Organizations](appendices/organizations.md)
+* Actually, you know, add some of the organizations.
+* Don't forget symbols, associates, motivations, etc.
 
 ## In General
-* Make a map of Tideholde
-* Create a list of services/locations in Tideholde
+* Create a list of services/locations in Tideholde and annotate the map
 * Build out important characters in Tideholde
 	* Blacksmith
 	* Innkeeper

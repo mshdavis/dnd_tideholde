@@ -16,7 +16,9 @@ If the players attempt to fight on their own terms, they can pick their initial 
 
 #### Phase One
 
-5-7 [Goblins](../../appendices/bestiary.md#goblin) surround the PCs and attack.
+5 [Goblins](../../appendices/bestiary.md#goblin) initially surround the PCs and attack.
+
+After a couple of them have been killed, the survivors call for help, and 2-4 more goblins either disengage from the guard or jump away from pillaging a wagon to join in the fight.
 
 #### Intermission
 
@@ -24,9 +26,15 @@ After the PCs have dispatched their first wave opponents, they notice that the p
 
 #### Phase Two
 
-5-7 [Goblins](../../appendices/bestiary.md#goblin) surround the PCs and attack.
+6 [Goblins](../../appendices/bestiary.md#goblin) initially surround the PCs and attack.
 
 2-3 [Cultists](../../appendices/bestiary.md#cultist) hang back and support the goblin charge with spells until they run out of spell slots.
+
+At the beginning of this fight, one of the goblins should attempt to run away. One of the cultists should use [inflict wounds](../../appendices/spells.md#inflict-wounds) to kill the fleeing goblin and cow the others.
+
+Once most of the goblins have been killed, any remaining cultists with at least one spell slot left should use [command](../../appendices/spells.md#command) to force one of the other goblins in the area to join in.
+
+Any improv dialog from the cultists should hint at how disposable they see the goblins and how more horrific things are to come.
 
 ### Conclusion
 

@@ -11,6 +11,7 @@
 ### Appendices
 * [Bestiary](appendices/bestiary.md)
 * [Characters](appendices/characters.md)
+* [Organizations](appendices/organizations.md)
 * [Races](appendices/races.md)
 * [Spells](appendices/spells.md)
 * [World]()
