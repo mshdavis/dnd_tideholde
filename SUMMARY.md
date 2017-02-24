@@ -15,3 +15,4 @@
 * [Spells](appendices/spells.md)
 * [World]()
 	* [World Map](appendices/world_map.md)
+	* [Tideholde Map](appendices/tideholde_map.md)
