@@ -17,3 +17,6 @@
 * [World]()
 	* [World Map](appendices/world_map.md)
 	* [Tideholde Map](appendices/tideholde_map.md)
+
+### Play Session Notes
+* [Session One](playthrough/session_one.md)
